@@ -1,0 +1,6 @@
+requests~=2.28.1
+xmltodict~=0.13.0
+lxml~=4.9.2
+python-dotenv~=1.0.0
+aiogram~=2.22.1
+aiogram_calendar~=0.0.1
